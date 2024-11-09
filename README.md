@@ -90,8 +90,4 @@ This project involves creating and comparing language embeddings for building a 
 
 ---
 
-## Priority Note
-
-Completing the RNN-based embeddings is the highest priority. For any questions or clarifications, please reach out to Professor.
-
 ---
